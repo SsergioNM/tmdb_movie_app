@@ -15,10 +15,6 @@ The **TMDB Movie App** is a Flutter-based application that allows users to:
 3. **Movie Details** *(Upcoming Feature)*
    - View details about selected movies, including posters, release dates, and descriptions.
 
-## Screenshots
-![Popular Movies Screen](https://via.placeholder.com/300x200)
-![Search Screen](https://via.placeholder.com/300x200)
-
 ## Installation
 To run this project on your local machine:
 
