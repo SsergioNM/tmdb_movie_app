@@ -51,12 +51,6 @@ To run this project on your local machine:
 - Flutter SDK (v3.5.3 or higher)
 - TMDB API Key
 
-## Contribution
-Feel free to contribute to the project:
-1. Fork the repository.
-2. Create a new branch for your feature.
-3. Submit a pull request.
-
 ---
 
 **Author:** Sergio NM
